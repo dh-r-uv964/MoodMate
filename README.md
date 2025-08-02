@@ -1,7 +1,7 @@
 # MoodMate 🧘 – A Mood Tracking & Self-Care App
 
 ## Live Demo  
-🔗 [Try the App](https://48c0735a-f37b-449a-8ee2-2ec25dd796be-00-2ien2kkj6y1ad.janeway.replit.dev)
+🔗 [Try the App](https://dh-r-uv964.github.io/MoodMate/)
 
 ---
 

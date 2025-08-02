@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MoodMate</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>MoodMate</h1>
+    <p>Track how you feel. Get kind advice. No pressure.</p>
+
+    <form id="moodForm">
+      <label for="mood">How do you feel today?</label>
+      <select id="mood" required>
+        <option value="">-- Select a Mood --</option>
+        <option value="Happy">😊 Happy</option>
+        <option value="Sad">😢 Sad</option>
+        <option value="Stressed">😰 Stressed</option>
+        <option value="Calm">😌 Calm</option>
+        <option value="Anxious">😟 Anxious</option>
+      </select>
+      <button type="submit">Log Mood</button>
+    </form>
+
+    <p id="tip"></p>
+
+    <canvas id="moodChart"></canvas>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

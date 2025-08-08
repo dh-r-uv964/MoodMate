@@ -28,4 +28,4 @@ This app promotes mental well-being by encouraging emotional awareness, providin
 ---
 
 ## Created By  
-A solo beginner developer as part of the **Code for Change Hackathon 2025**
+A solo beginner developer as part of the **Sparkhub hackathon**
